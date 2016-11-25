@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bride_image_request">111</integer>
+    <integer name="groom_image_request">112</integer>
+    <integer name="favourite_place_image_request">113</integer>
+</resources>
